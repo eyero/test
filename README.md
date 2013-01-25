@@ -1,4 +1,4 @@
 test
 ====
 
-testing puroposes
+learning github testing puroposes repository
